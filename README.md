@@ -82,15 +82,6 @@ All my links in one place — socials, writing, mentoring, and more. <br/>
 
 ---
 
-## What People Say
-
-I let my community speak for me.  
-Verified testimonials from mentees, collaborators, and developers.
-
-→ **[Read testimonials](https://minianonvouch.vercel.app)**  
-
----
-
 ### Recognition
 
 - Featured twice at [**Times Square**](https://www.linkedin.com/posts/bhardwajtushar2004_timessquare-topmate-keepbuilding-activity-7366124262883020801-1Rgh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4sgloB7CiwCsH505Gt8Bov5ePkQPnMwTU)
