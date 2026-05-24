@@ -78,7 +78,7 @@
 
 ## Elsewhere
 All my links in one place — socials, writing, mentoring, and more. <br/>
-**[MiniLink — @tusharbhardwaj](https://minianonlink.vercel.app/tusharbhardwaj)**
+**[MiniLink — @tusharbhardwaj](https://link.minianon.in/tusharbhardwaj)**
 
 ---
 
