@@ -91,7 +91,7 @@ All my links in one place — socials, writing, mentoring, and more. <br/>
 - Top **0.1% mentor** on [Topmate](https://topmate.io/tusharbhardwaj)
 - Contributed as a **Problem Reviewer & Solution Author** on LeetCode
 - Worked with **international clients**
-- **24k+ followers** on [LinkedIn](https://www.linkedin.com/in/bhardwajtushar2004/)
+- **25k+ followers** on [LinkedIn](https://www.linkedin.com/in/bhardwajtushar2004/)
 
 
 ### Media
