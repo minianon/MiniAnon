@@ -1,6 +1,6 @@
 # Hi, I’m Tushar Bhardwaj 👋
 
-📍 **India** | ⚙️ **Software Engineer** | ☁️ **Ex-Microsoft SWE Intern**<br/>
+📍 **India** | **Software Engineer** | **Ex-Microsoft SWE Intern**<br/>
 📧 **Email:** [tusharbhardwaj2617@gmail.com](mailto:tusharbhardwaj2617@gmail.com) | 🌐 **Portfolio:** [minianon.in](https://minianon.in)
 
 
