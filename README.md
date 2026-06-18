@@ -1,4 +1,4 @@
-# Hi, I’m Tushar Bhardwaj 👋
+# Hi, I’m Tushar Bhardwaj
 
 📍 **India** | **Software Engineer** | **Ex-Microsoft SWE Intern**<br/>
 📧 **Email:** [tusharbhardwaj2617@gmail.com](mailto:tusharbhardwaj2617@gmail.com) | 🌐 **Portfolio:** [minianon.in](https://minianon.in)
@@ -23,31 +23,31 @@
 
 ## Current Projects
 
-- 📑 [**ShortlistMe**](http://shortlistme.site) - Transform your resume into a stunning portfolio in seconds. Free Forever.
-- 📰 [**The Destroyer**](https://github.com/TuShArBhArDwA/The_Destroyer), [**AutoPress**](https://github.com/TuShArBhArDwA/AutoPress) - Autonomous AI Editorial. Real Reporting. Independent Perspectives.
-- 🔍 [**HireLens**](https://github.com/TuShArBhArDwA/HireLens) - AI-powered resume screening with candidate scoring, ranking, and hiring insights.
-- 🔗 [**MiniLink**](https://github.com/TuShArBhArDwA/MiniLink) - Create your link-in-bio page in seconds. Free forever.
-- 💬 [**MiniMock**](https://github.com/TuShArBhArDwA/MiniMock) - Instant chat, social media, and AI mockups. No data saved. No watermark. Easy to use.
-- 🤖 [**Weaave**](https://github.com/TuShArBhArDwA/weaave) - Build, connect, and deploy AI workflows visually — once you see it, you won’t go back
-- 📲 [**MiniRizz**](https://github.com/TuShArBhArDwA/minirizz) - Your AI Wingman for the digital age – never get left on read again
-- 🎯 [**PulseAI Prep**](https://github.com/TuShArBhArDwA/PulseAI) - AI-driven interview preparation with mock interviews and feedback
-- 🎵 [**AnonBeats**](https://github.com/TuShArBhArDwA/AnonBeats) - Personal, ad-free music player for uploading tracks, building playlists, and streaming
-- 🎨 [**Canvas Editor**](https://github.com/TuShArBhArDwA/Canvas-Editor) - Minimal 2D canvas for ideas with instant cloud persistence
-- 🗺️ [**Maze Solver**](https://github.com/TuShArBhArDwA/MazeSolver) - An interactive maze generator and solver with multiple algorithms
+- [**ShortlistMe**](http://shortlistme.site) - Transform your resume into a stunning portfolio in seconds. Free Forever.
+- [**The Destroyer**](https://github.com/TuShArBhArDwA/The_Destroyer), [**AutoPress**](https://github.com/TuShArBhArDwA/AutoPress) - Autonomous AI Editorial. Real Reporting. Independent Perspectives.
+- [**HireLens**](https://github.com/TuShArBhArDwA/HireLens) - AI-powered resume screening with candidate scoring, ranking, and hiring insights.
+- [**MiniLink**](https://github.com/TuShArBhArDwA/MiniLink) - Create your link-in-bio page in seconds. Free forever.
+- [**MiniMock**](https://github.com/TuShArBhArDwA/MiniMock) - Instant chat, social media, and AI mockups. No data saved. No watermark. Easy to use.
+- [**Weaave**](https://github.com/TuShArBhArDwA/weaave) - Build, connect, and deploy AI workflows visually — once you see it, you won’t go back
+- [**MiniRizz**](https://github.com/TuShArBhArDwA/minirizz) - Your AI Wingman for the digital age – never get left on read again
+- [**PulseAI Prep**](https://github.com/TuShArBhArDwA/PulseAI) - AI-driven interview preparation with mock interviews and feedback
+- [**AnonBeats**](https://github.com/TuShArBhArDwA/AnonBeats) - Personal, ad-free music player for uploading tracks, building playlists, and streaming
+- [**Canvas Editor**](https://github.com/TuShArBhArDwA/Canvas-Editor) - Minimal 2D canvas for ideas with instant cloud persistence
+- [**Maze Solver**](https://github.com/TuShArBhArDwA/MazeSolver) - An interactive maze generator and solver with multiple algorithms
 
 
 ### Interview Playbooks
 
-- 🧠 **[System Design](https://github.com/TuShArBhArDwA/System-Design)** - designing systems at scale and preparing for system design interviews
-- ⚙️ **[Operating Systems (1Shot-OS)](https://github.com/TuShArBhArDwA/1Shot-OS)** - OS fundamentals distilled for quick revision
-- 🗄️ **[Database Systems (1Shot-DBMS)](https://github.com/TuShArBhArDwA/1Shot-DBMS)** - DBMS concepts for interview preparation
-- 🌐 **[Computer Networks (1Shot-CN)](https://github.com/TuShArBhArDwA/1Shot-CN)** - networking essentials in a one-shot format
-- 🧮 **[SQL (1Shot-SQL)](https://github.com/TuShArBhArDwA/1Shot-SQL)** - SQL concepts and patterns for interviews
-- 🧩 **[Object-Oriented Programming (1Shot-OOPS)](https://github.com/TuShArBhArDwA/1Shot-OOPS)** - OOPS revision with C++ examples
-- 💬 **[Most Common HR Interview Questions](https://github.com/TuShArBhArDwA/Most-common-HR-interview-questions)** - behavioral questions and structured answers
-- 🧑‍💼 **[Resources for Senior Software Engineers](https://github.com/TuShArBhArDwA/Resources-for-Senior-Software-Engineer)** - expectations, preparation, and growth
-- 🏢 **[LeetCode Questions (Company-wise)](https://github.com/TuShArBhArDwA/LeetCode-Questions-CompanyWise)** - curated problems by company
-- 🧰 **[GitHub Basics](https://github.com/TuShArBhArDwA/github_basics)** - practical Git & GitHub essentials
+- **[System Design](https://github.com/TuShArBhArDwA/System-Design)** - designing systems at scale and preparing for system design interviews
+- **[Operating Systems (1Shot-OS)](https://github.com/TuShArBhArDwA/1Shot-OS)** - OS fundamentals distilled for quick revision
+- **[Database Systems (1Shot-DBMS)](https://github.com/TuShArBhArDwA/1Shot-DBMS)** - DBMS concepts for interview preparation
+- **[Computer Networks (1Shot-CN)](https://github.com/TuShArBhArDwA/1Shot-CN)** - networking essentials in a one-shot format
+- **[SQL (1Shot-SQL)](https://github.com/TuShArBhArDwA/1Shot-SQL)** - SQL concepts and patterns for interviews
+- **[Object-Oriented Programming (1Shot-OOPS)](https://github.com/TuShArBhArDwA/1Shot-OOPS)** - OOPS revision with C++ examples
+- **[Most Common HR Interview Questions](https://github.com/TuShArBhArDwA/Most-common-HR-interview-questions)** - behavioral questions and structured answers
+- **[Resources for Senior Software Engineers](https://github.com/TuShArBhArDwA/Resources-for-Senior-Software-Engineer)** - expectations, preparation, and growth
+- **[LeetCode Questions (Company-wise)](https://github.com/TuShArBhArDwA/LeetCode-Questions-CompanyWise)** - curated problems by company
+- **[GitHub Basics](https://github.com/TuShArBhArDwA/github_basics)** - practical Git & GitHub essentials
 
 
 
