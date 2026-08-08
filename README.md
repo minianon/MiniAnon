@@ -24,41 +24,41 @@
 ## Current Projects
 
 - [**ShortlistMe**](http://shortlistme.site) - Transform your resume into a stunning portfolio in seconds. Free Forever.
-- [**The Destroyer**](https://github.com/TuShArBhArDwA/The_Destroyer), [**AutoPress**](https://github.com/TuShArBhArDwA/AutoPress) - Autonomous AI Editorial. Real Reporting. Independent Perspectives.
-- [**HireLens**](https://github.com/TuShArBhArDwA/HireLens) - AI-powered resume screening with candidate scoring, ranking, and hiring insights.
-- [**MiniLink**](https://github.com/TuShArBhArDwA/MiniLink) - Create your link-in-bio page in seconds. Free forever.
-- [**MiniMock**](https://github.com/TuShArBhArDwA/MiniMock) - Instant chat, social media, and AI mockups. No data saved. No watermark. Easy to use.
-- [**Weaave**](https://github.com/TuShArBhArDwA/weaave) - Build, connect, and deploy AI workflows visually — once you see it, you won’t go back
-- [**MiniRizz**](https://github.com/TuShArBhArDwA/minirizz) - Your AI Wingman for the digital age – never get left on read again
-- [**PulseAI Prep**](https://github.com/TuShArBhArDwA/PulseAI) - AI-driven interview preparation with mock interviews and feedback
-- [**AnonBeats**](https://github.com/TuShArBhArDwA/AnonBeats) - Personal, ad-free music player for uploading tracks, building playlists, and streaming
-- [**Canvas Editor**](https://github.com/TuShArBhArDwA/Canvas-Editor) - Minimal 2D canvas for ideas with instant cloud persistence
-- [**Maze Solver**](https://github.com/TuShArBhArDwA/MazeSolver) - An interactive maze generator and solver with multiple algorithms
+- [**The Destroyer**](https://github.com/minianon/The_Destroyer), [**AutoPress**](https://github.com/minianon/AutoPress) - Autonomous AI Editorial. Real Reporting. Independent Perspectives.
+- [**HireLens**](https://github.com/minianon/HireLens) - AI-powered resume screening with candidate scoring, ranking, and hiring insights.
+- [**MiniLink**](https://github.com/minianon/MiniLink) - Create your link-in-bio page in seconds. Free forever.
+- [**MiniMock**](https://github.com/minianon/MiniMock) - Instant chat, social media, and AI mockups. No data saved. No watermark. Easy to use.
+- [**Weaave**](https://github.com/minianon/weaave) - Build, connect, and deploy AI workflows visually — once you see it, you won’t go back
+- [**MiniRizz**](https://github.com/minianon/minirizz) - Your AI Wingman for the digital age – never get left on read again
+- [**PulseAI Prep**](https://github.com/minianon/PulseAI) - AI-driven interview preparation with mock interviews and feedback
+- [**AnonBeats**](https://github.com/minianon/AnonBeats) - Personal, ad-free music player for uploading tracks, building playlists, and streaming
+- [**Canvas Editor**](https://github.com/minianon/Canvas-Editor) - Minimal 2D canvas for ideas with instant cloud persistence
+- [**Maze Solver**](https://github.com/minianon/MazeSolver) - An interactive maze generator and solver with multiple algorithms
 
 
 ### Interview Playbooks
 
-- **[System Design](https://github.com/TuShArBhArDwA/System-Design)** - designing systems at scale and preparing for system design interviews
-- **[Operating Systems (1Shot-OS)](https://github.com/TuShArBhArDwA/1Shot-OS)** - OS fundamentals distilled for quick revision
-- **[Database Systems (1Shot-DBMS)](https://github.com/TuShArBhArDwA/1Shot-DBMS)** - DBMS concepts for interview preparation
-- **[Computer Networks (1Shot-CN)](https://github.com/TuShArBhArDwA/1Shot-CN)** - networking essentials in a one-shot format
-- **[SQL (1Shot-SQL)](https://github.com/TuShArBhArDwA/1Shot-SQL)** - SQL concepts and patterns for interviews
-- **[Object-Oriented Programming (1Shot-OOPS)](https://github.com/TuShArBhArDwA/1Shot-OOPS)** - OOPS revision with C++ examples
-- **[Most Common HR Interview Questions](https://github.com/TuShArBhArDwA/Most-common-HR-interview-questions)** - behavioral questions and structured answers
-- **[Resources for Senior Software Engineers](https://github.com/TuShArBhArDwA/Resources-for-Senior-Software-Engineer)** - expectations, preparation, and growth
-- **[LeetCode Questions (Company-wise)](https://github.com/TuShArBhArDwA/LeetCode-Questions-CompanyWise)** - curated problems by company
-- **[GitHub Basics](https://github.com/TuShArBhArDwA/github_basics)** - practical Git & GitHub essentials
+- **[System Design](https://github.com/minianon/System-Design)** - designing systems at scale and preparing for system design interviews
+- **[Operating Systems (1Shot-OS)](https://github.com/minianon/1Shot-OS)** - OS fundamentals distilled for quick revision
+- **[Database Systems (1Shot-DBMS)](https://github.com/minianon/1Shot-DBMS)** - DBMS concepts for interview preparation
+- **[Computer Networks (1Shot-CN)](https://github.com/minianon/1Shot-CN)** - networking essentials in a one-shot format
+- **[SQL (1Shot-SQL)](https://github.com/minianon/1Shot-SQL)** - SQL concepts and patterns for interviews
+- **[Object-Oriented Programming (1Shot-OOPS)](https://github.com/minianon/1Shot-OOPS)** - OOPS revision with C++ examples
+- **[Most Common HR Interview Questions](https://github.com/minianon/Most-common-HR-interview-questions)** - behavioral questions and structured answers
+- **[Resources for Senior Software Engineers](https://github.com/minianon/Resources-for-Senior-Software-Engineer)** - expectations, preparation, and growth
+- **[LeetCode Questions (Company-wise)](https://github.com/minianon/LeetCode-Questions-CompanyWise)** - curated problems by company
+- **[GitHub Basics](https://github.com/minianon/github_basics)** - practical Git & GitHub essentials
 
 
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/TuShArBhArDwA)
+![GitHub Contribution Graph](https://ghchart.rshah.org/minianon)
 
 ## What I’m Doing
 
 - **Living in the future** - learning and building with AI to ship software faster and smarter
-- **Sharing real experiences** - writing about interviews, projects, and lessons learned on [Medium](https://medium.com/@bhardwajtushar2004)
+- **Sharing real experiences** - writing about interviews, projects, and lessons learned on [Medium](https://medium.com/@minianon)
 - **Rapid prototyping** - building and shipping full apps in days, not months
 - **Mentoring & community** - guiding students and peers via [Topmate](https://topmate.io/tusharbhardwaj) and community initiatives
 - **Working on what’s next** - building something you’ll hear about soon
@@ -66,14 +66,14 @@
 
 ## Learn From My Experience
 
-- [How I Secured a Microsoft Software Engineer Internship (2025)](https://medium.com/@bhardwajtushar2004/microsoft-swe-intern-hyderabad-bengaluru-noida-sep-2024-offer-28f71a07adce)
-- [Stripe Technical Team Screen Interview Experience](https://medium.com/@bhardwajtushar2004/stripe-technical-team-screen-interview-experience-3a6a9f958075)
-- [CRED Backend Intern: Machine Coding Round Interview Experience](https://medium.com/@bhardwajtushar2004/cred-backend-intern-machine-coding-round-interview-experience-66a3e28abb90)
-- [Inside Eightfold.ai’s Agentic AI Internship Hiring Process (2026)](https://medium.com/@bhardwajtushar2004/inside-eightfold-ais-agentic-ai-internship-hiring-process-2026-f86dcb625aa8)
-- [Optum Data Engineering Interview Experience (Mumbai)](https://medium.com/@bhardwajtushar2004/optum-data-engineering-interview-experience-mumbai-818b53371fde)
-- [Trilogy Innovations Winter Internship 2026: On-Campus Interview Experience](https://medium.com/@bhardwajtushar2004/trilogy-innovations-winter-internship-2026-on-campus-interview-experience-7f2e243ac1c6)
+- [How I Secured a Microsoft Software Engineer Internship (2025)](https://medium.com/@minianon/microsoft-swe-intern-hyderabad-bengaluru-noida-sep-2024-offer-28f71a07adce)
+- [Stripe Technical Team Screen Interview Experience](https://medium.com/@minianon/stripe-technical-team-screen-interview-experience-3a6a9f958075)
+- [CRED Backend Intern: Machine Coding Round Interview Experience](https://medium.com/@minianon/cred-backend-intern-machine-coding-round-interview-experience-66a3e28abb90)
+- [Inside Eightfold.ai’s Agentic AI Internship Hiring Process (2026)](https://medium.com/@minianon/inside-eightfold-ais-agentic-ai-internship-hiring-process-2026-f86dcb625aa8)
+- [Optum Data Engineering Interview Experience (Mumbai)](https://medium.com/@minianon/optum-data-engineering-interview-experience-mumbai-818b53371fde)
+- [Trilogy Innovations Winter Internship 2026: On-Campus Interview Experience](https://medium.com/@minianon/trilogy-innovations-winter-internship-2026-on-campus-interview-experience-7f2e243ac1c6)
 
-*More writing on →* [Medium](https://medium.com/@bhardwajtushar2004)
+*More writing on →* [Medium](https://medium.com/@minianon)
 
 
 ## Elsewhere
@@ -91,7 +91,7 @@ All my links in one place — socials, writing, mentoring, and more. <br/>
 - Top **0.1% mentor** on [Topmate](https://topmate.io/tusharbhardwaj)
 - Contributed as a **Problem Reviewer & Solution Author** on LeetCode
 - Worked with **international clients**
-- **25k+ followers** on [LinkedIn](https://www.linkedin.com/in/bhardwajtushar2004/)
+- **25k+ followers** on [LinkedIn](https://www.linkedin.com/in/minianon)
 
 
 ### Media
