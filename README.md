@@ -23,7 +23,7 @@
 
 ## Current Projects
 
-- [**ShortlistMe**](http://shortlistme.site) - Transform your resume into a stunning portfolio in seconds. Free Forever.
+- [**ShortlistMe**](https://github.com/minianon/ShortlistMe) - Transform your resume into a stunning portfolio in seconds. Free Forever.
 - [**The Destroyer**](https://github.com/minianon/The_Destroyer), [**AutoPress**](https://github.com/minianon/AutoPress) - Autonomous AI Editorial. Real Reporting. Independent Perspectives.
 - [**HireLens**](https://github.com/minianon/HireLens) - AI-powered resume screening with candidate scoring, ranking, and hiring insights.
 - [**MiniLink**](https://github.com/minianon/MiniLink) - Create your link-in-bio page in seconds. Free forever.
@@ -84,7 +84,7 @@ All my links in one place — socials, writing, mentoring, and more. <br/>
 
 ### Recognition
 
-- Featured twice at [**Times Square**](https://www.linkedin.com/posts/bhardwajtushar2004_timessquare-topmate-keepbuilding-activity-7366124262883020801-1Rgh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4sgloB7CiwCsH505Gt8Bov5ePkQPnMwTU)
+- Featured twice at [**Times Square**](https://www.linkedin.com/posts/minianon_timessquare-topmate-keepbuilding-ugcPost-7366124258722316289-kTVg/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4sgloB7CiwCsH505Gt8Bov5ePkQPnMwTU)
 - Cracked [**Microsoft Software Engineer Internship**](https://medium.com/@bhardwajtushar2004/microsoft-swe-intern-hyderabad-bengaluru-noida-sep-2024-offer-28f71a07adce)
 - Winner — [SaaS Market Competition](https://x.com/joni_vrbt/status/2028263528583348552?s=20)
 - Runner-up — [Vibeathon](https://x.com/joni_vrbt/status/2042710597704519848?s=20)
@@ -118,6 +118,6 @@ All my links in one place — socials, writing, mentoring, and more. <br/>
 
 <sub>
 If my work helps you, consider supporting it on  
-<a href="https://github.com/sponsors/TuShArBhArDwA">GitHub Sponsors</a>
+<a href="https://github.com/sponsors/minianon">GitHub Sponsors</a>
 </sub>
 
