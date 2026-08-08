@@ -85,7 +85,7 @@ All my links in one place — socials, writing, mentoring, and more. <br/>
 ### Recognition
 
 - Featured twice at [**Times Square**](https://www.linkedin.com/posts/minianon_timessquare-topmate-keepbuilding-ugcPost-7366124258722316289-kTVg/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4sgloB7CiwCsH505Gt8Bov5ePkQPnMwTU)
-- Cracked [**Microsoft Software Engineer Internship**](https://medium.com/@bhardwajtushar2004/microsoft-swe-intern-hyderabad-bengaluru-noida-sep-2024-offer-28f71a07adce)
+- Cracked [**Microsoft Software Engineer Internship**](https://medium.com/@minianon/microsoft-swe-intern-hyderabad-bengaluru-noida-sep-2024-offer-28f71a07adce)
 - Winner — [SaaS Market Competition](https://x.com/joni_vrbt/status/2028263528583348552?s=20)
 - Runner-up — [Vibeathon](https://x.com/joni_vrbt/status/2042710597704519848?s=20)
 - Top **0.1% mentor** on [Topmate](https://topmate.io/tusharbhardwaj)
