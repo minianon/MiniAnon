@@ -60,7 +60,7 @@
 - **Living in the future** - learning and building with AI to ship software faster and smarter
 - **Sharing real experiences** - writing about interviews, projects, and lessons learned on [Medium](https://medium.com/@minianon)
 - **Rapid prototyping** - building and shipping full apps in days, not months
-- **Mentoring & community** - guiding students and peers via [Topmate](https://topmate.io/tusharbhardwaj) and community initiatives
+- **Mentoring & community** - mentored 500+ students and counting through [Topmate](https://topmate.io/tusharbhardwaj) and built the [Mini Anon Job Alerts](https://whatsapp.com/channel/0029Vb67tYF0rGiSuzXcHw2C) community, now 2K+ students strong
 - **Working on what’s next** - building something you’ll hear about soon
 
 
@@ -84,14 +84,15 @@ All my links in one place — socials, writing, mentoring, and more. <br/>
 
 ### Recognition
 
-- Featured twice at [**Times Square**](https://www.linkedin.com/posts/minianon_timessquare-topmate-keepbuilding-ugcPost-7366124258722316289-kTVg/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4sgloB7CiwCsH505Gt8Bov5ePkQPnMwTU)
 - Cracked [**Microsoft Software Engineer Internship**](https://medium.com/@minianon/microsoft-swe-intern-hyderabad-bengaluru-noida-sep-2024-offer-28f71a07adce)
-- Winner — [SaaS Market Competition](https://x.com/joni_vrbt/status/2028263528583348552?s=20)
-- Runner-up — [Vibeathon](https://x.com/joni_vrbt/status/2042710597704519848?s=20)
-- Top **0.1% mentor** on [Topmate](https://topmate.io/tusharbhardwaj)
-- Contributed as a **Problem Reviewer & Solution Author** on LeetCode
+- Featured twice at [**Times Square**](https://www.linkedin.com/posts/minianon_timessquare-topmate-keepbuilding-ugcPost-7366124258722316289-kTVg/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4sgloB7CiwCsH505Gt8Bov5ePkQPnMwTU)
+- **26K+ followers** on [LinkedIn](https://www.linkedin.com/in/minianon)
+- Top **0.1% mentor on [Topmate](https://topmate.io/tusharbhardwaj)**, mentored **500+ students and counting**
+- Built the [**Mini Anon Job Alerts**](https://whatsapp.com/channel/0029Vb67tYF0rGiSuzXcHw2C) community, now **2K+ students strong**
+- Winner — [**SaaS Market Competition**](https://x.com/joni_vrbt/status/2028263528583348552?s=20)
+- Runner-up — [**Vibeathon**](https://x.com/joni_vrbt/status/2042710597704519848?s=20)
+- Contributed as a **Problem Reviewer & Solution Author** on [LeetCode](https://leetcode.com/)
 - Worked with **international clients**
-- **25k+ followers** on [LinkedIn](https://www.linkedin.com/in/minianon)
 
 
 ### Media
@@ -108,9 +109,9 @@ All my links in one place — socials, writing, mentoring, and more. <br/>
 <summary>Random Facts</summary>
 
 - Show up every day - consistency over intensity
-- Mentored **500+ students** (and counting)
-- Build and actively support my developer community
 - Known online as [**Mini Anon**](https://www.linkedin.com/in/tusharbhardwaj2004ab/)
+- I enjoy turning random ideas into weekend projects
+- I write about things I learn, mostly so I don't forget them
 - Enjoy gaming (when not coding)
 
 </details>
